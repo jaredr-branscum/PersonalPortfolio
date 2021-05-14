@@ -61,7 +61,6 @@ function App() {
               <div className="col-lg-6">
                 <ul>
                   <li><i className="bi bi-chevron-right" /> <strong>Degree:</strong> <span>M.S. @ Georgia Tech</span></li>
-                  <li><i className="bi bi-chevron-right" /> <strong>Phone:</strong> <span>+727 534 1132</span></li>
                   <li><i className="bi bi-chevron-right" /> <strong>City:</strong> <span>Atlanta, GA</span></li>
                 </ul>
               </div>
@@ -467,7 +466,7 @@ function App() {
         <div className="section-title">
           <h2>Contact</h2>
           <p>I currently cannot be contacted at this time through the form since this web app is hosted statically on GitHub Pages for now, but feel 
-		  free to contact me through cell or email. You can also
+		  free to contact me through email. You can also
 		  contact me through social media by clicking on the icons on the navigation menu bar.</p>
         </div>
         <div className="row" data-aos="fade-in">
@@ -482,11 +481,6 @@ function App() {
                 <i className="bi bi-envelope" />
                 <h4>Email:</h4>
                 <p>jaredr.branscum@gmail.com</p>
-              </div>
-              <div className="phone">
-                <i className="bi bi-phone" />
-                <h4>Call:</h4>
-                <p>+1 727 534 1132</p>
               </div>
 			  <iframe title="Work Location"
 			  crossOrigin="anonymous"

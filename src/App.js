@@ -190,7 +190,7 @@ function App() {
               <h4>Bachelor of Science</h4>
               <h5>2016 - 2019</h5>
               <p><em>Florida Atlantic University, Boca Raton, FL</em></p>
-              <p>Activities: FAU Table Tennis</p>
+              <p>Activities: FAU Table Tennis, Technology & Aerospace Club</p>
             </div>
           </div>
           <div className="col-lg-6" data-aos="fade-up" data-aos-delay={100}>

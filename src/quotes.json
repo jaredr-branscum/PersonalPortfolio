@@ -1,7 +1,7 @@
 [
   {
   "name":"Aristotle",
-  "wisdom": "Knowing yourself is the beginning of all wisdom"
+  "wisdom": "Knowing yourself is the beginning of all wisdom."
   },
   {
     "name": "Fran Lebowitz",
@@ -12,75 +12,35 @@
     "wisdom": "Manners maketh man."
   },
   {
-    "name": "",
-    "wisdom": ""
+    "name": "Confucious",
+    "wisdom": "By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest."
   },
   {
-    "name": "",
-    "wisdom": ""
+    "name": "Joseph Campbell",
+    "wisdom": "We must be willing to let go of the life we planned so as to have the life that is waiting for us."
   },
   {
-    "name": "",
-    "wisdom": ""
+    "name": "Hermann Hesse",
+    "wisdom": "Wisdom cannot be imparted. Wisdom that a wise man attempts to impart always sounds like foolishness to someone else ... Knowledge can be communicated, but not wisdom. One can find it, live it, do wonders through it, but one cannot communicate and teach it."
   },
   {
-    "name": "",
-    "wisdom": ""
+    "name": "Marianne Williamson",
+    "wisdom": "We are not held back by the love we didn’t receive in the past, but by the love, we’re not extending in the present."
   },
   {
-    "name": "",
-    "wisdom": ""
+    "name": "Apostle Paul",
+    "wisdom": "Love is patient; love is kind. It does not envy; it does not boast, it is not inflated. It is not rude; it is not self-seeking, it is not easily angered or quick-tempered, it does not brood over injury. Love does not delight over wrongdoing but rejoices with the truth. It bears all things, believes all things, hopes all things, endures all things, perseveres through all things. Love never fails."
   },
   {
-    "name": "",
-    "wisdom": ""
+    "name": "Eleanor Roosevelt",
+    "wisdom": "It takes courage to love, but pain through love is the purifying fire which those who love generously know. We all know people who are so much afraid of pain that they shut themselves up like clams in a shell and, giving out nothing, receive nothing and therefore shrink until life is a mere living death."
   },
   {
-    "name": "",
-    "wisdom": ""
+    "name": "Lao Tzu",
+    "wisdom": "Being deeply loved by someone gives you strength while loving someone deeply gives you courage."
   },
   {
-    "name": "",
-    "wisdom": ""
-  },
-  {
-    "name": "",
-    "wisdom": ""
-  },
-  {
-    "name": "",
-    "wisdom": ""
-  },
-  {
-    "name": "",
-    "wisdom": ""
-  },
-  {
-    "name": "",
-    "wisdom": ""
-  },
-  {
-    "name": "",
-    "wisdom": ""
-  },
-  {
-    "name": "",
-    "wisdom": ""
-  },
-  {
-    "name": "",
-    "wisdom": ""
-  },
-  {
-    "name": "",
-    "wisdom": ""
-  },
-  {
-    "name": "",
-    "wisdom": ""
-  },
-  {
-    "name": "",
-    "wisdom": ""
+    "name": "Wayne Dyer",
+    "wisdom": "Loving people live in a loving world. Hostile people live in a hostile world. Same world."
   }
 ]

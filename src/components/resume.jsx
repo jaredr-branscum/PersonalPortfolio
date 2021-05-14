@@ -25,13 +25,13 @@ class Resume extends Component {
 					</div>
 					<h3 className="resume-title">Education</h3>
 					<div className="resume-item">
-					  <h4>Master of Science</h4>
+					  <h4>Master of Science in Computer Science</h4>
 					  <h5>2019 - 2021</h5>
 					  <p><em>Georgia Institute of Technology, Atlanta, GA</em></p>
 					  <p>Activities: Tech Wesley & Georgia Tech Cru</p>
 					</div>
 					<div className="resume-item">
-					  <h4>Bachelor of Science</h4>
+					  <h4>Bachelor of Science in Computer Science</h4>
 					  <h5>2016 - 2019</h5>
 					  <p><em>Florida Atlantic University, Boca Raton, FL</em></p>
 					  <p>Activities: FAU Table Tennis, Technology & Aerospace Club</p>

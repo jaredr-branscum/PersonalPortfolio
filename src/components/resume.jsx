@@ -13,7 +13,7 @@ class Resume extends Component {
 				</div>
 				<div className="row">
 				  <div className="col-lg-6" data-aos="fade-up">
-					<h3 className="resume-title">Sumary</h3>
+					<h3 className="resume-title">Summary</h3>
 					<div className="resume-item pb-0">
 					  <h4>Jared Branscum</h4>
 					  <p><em>Creative and Perseverant Computer Scientist with a passion for solving problems. Areas of interest include:

@@ -9,8 +9,8 @@ class Skills extends Component {
 			  <div className="container">
 				<div className="section-title">
 				  <h2>Skills</h2>
-				  <p>These skills have been acquired throughout my undergraduate and graduate studies. Many of them were introduced through
-				  coursework that I later continued practicing with in side projects. The percentages below are a subjective measure of my proficiency
+				  <p>These skills have been acquired throughout my undergraduate and graduate studies. Many of them were introduced in
+				  coursework that I later continued practicing with through side projects. The percentages below are a subjective measure of my proficiency
 				  using those languages/libraries/frameworks.</p>
 				</div>
 				<div className="row skills-content">

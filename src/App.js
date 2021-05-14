@@ -62,13 +62,13 @@ function App() {
                 <ul>
                   <li><i className="bi bi-chevron-right" /> <strong>Degree:</strong> <span>M.S. @ Georgia Tech</span></li>
                   <li><i className="bi bi-chevron-right" /> <strong>City:</strong> <span>Atlanta, GA</span></li>
+                  <li><i className="bi bi-chevron-right" /> <strong>Current Work:</strong> <span>Software Engineer @ NCR</span></li>
                 </ul>
               </div>
               <div className="col-lg-6">
                 <ul>
                   <li><i className="bi bi-chevron-right" /> <strong>Age:</strong> <span>20</span></li>
                   <li><i className="bi bi-chevron-right" /> <strong>Email:</strong> <span>jaredr.branscum@gmail.com</span></li>
-                  <li><i className="bi bi-chevron-right" /> <strong>Current Work:</strong> <span>Software Engineer @ NCR</span></li>
                 </ul>
               </div>
             </div>
@@ -173,8 +173,7 @@ function App() {
               <p><em>Creative and Perseverant Computer Scientist with a passion for solving problems. Areas of interest include:
 			  Computer Networks, Network Science, Software Design, Education, and Cross-platform App Development</em></p>
               <ul>
-                <li>Atlanta, FL</li>
-                <li>(727) 534-1132</li>
+                <li>Atlanta, GA</li>
                 <li>jaredr.branscum@gmail.com</li>
               </ul>
             </div>

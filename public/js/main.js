@@ -132,13 +132,13 @@
   if (typed) {
     let typed_strings = typed.getAttribute('data-typed-items')
     typed_strings = typed_strings.split(',');
-	for (var i=0; i<typed_strings.length;i++) {
+/* 	for (var i=0; i<typed_strings.length;i++) {
 	  if (typed_strings[i][0] != 'n' && typed_strings[i][1] != ' ')
 	  {
 		typed_strings[i] = '&nbsp; ' + typed_strings[i];
 	  }		
-	}
-	console.log(typed_strings);
+	} */
+	//console.log(typed_strings);
     new Typed('.typed', {
 	  strings: typed_strings,
       loop: true,

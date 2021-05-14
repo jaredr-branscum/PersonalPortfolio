@@ -20,7 +20,7 @@ class About extends Component {
 					<img src={process.env.PUBLIC_URL +"/img/profile-img.jpg"} className="img-fluid" alt="" />
 				  </div>
 				  <div className="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
-					<h3>Software Engineer & Computer Scientist.</h3>
+					<h3>Software Engineer & Computer Scientist</h3>
 					<p className="fst-italic">
 					  I challenge myself to think about problems differently by focusing on the customer
 					  and being open to feedback.

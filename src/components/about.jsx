@@ -35,7 +35,7 @@ class About extends Component {
 					  </div>
 					  <div className="col-lg-6">
 						<ul>
-						  <li><i className="bi bi-chevron-right" /> <strong>Age:</strong> <span>20</span></li>
+						  <li><i className="bi bi-chevron-right" /> <strong>Age:</strong> <span>21</span></li>
 						  <li><i className="bi bi-chevron-right" /> <strong>Email:</strong> <span>jaredr.branscum@gmail.com</span></li>
 						</ul>
 					  </div>

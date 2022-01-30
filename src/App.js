@@ -16,8 +16,7 @@ function App() {
   <Header></Header>
   <Hero></Hero>
   <main id="main">
-    <About></About>
-	<Skills></Skills>
+  <About></About>
 	<Resume></Resume>
 	<Portfolio></Portfolio>
 	<Services></Services>

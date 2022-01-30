@@ -5,11 +5,11 @@ class Resume extends Component {
 		return (
 		  <div>
 			{/* ======= Resume Section ======= */}
-			<section id="resume" className="resume">
+			<section id="resume" className="resume section-bg">
 			  <div className="container">
 				<div className="section-title">
 				  <h2>Resume</h2>
-				  <p>Resume updated on May 13, 2021. Contains relevant education, research, and work experience.</p>
+				  <p>Resume updated on January 30, 2022. Contains relevant education, research, and work experience.</p>
 				</div>
 				<div className="row">
 				  <div className="col-lg-6" data-aos="fade-up">
@@ -23,6 +23,21 @@ class Resume extends Component {
 						<li>jaredr.branscum@gmail.com</li>
 					  </ul>
 					</div>
+
+					<h3 className="resume-title">Work Experience</h3>
+					<div className="resume-item">
+					  <h4>Software Engineer I</h4>
+					  <h5>July 2021 - Present</h5>
+					  <p><em>NCR Corporation, Atlanta, GA</em></p>
+					  <ul>
+						<li>Software development with agile methodology on a scrum team</li>
+						<li>Designed and developed features for backend Java Spring Boot Microservices and client Typescript SDK</li>
+						<li>Developed capabilities with test-driven development (TDD) using JUnit & Jest</li>
+						<li>Developed capabilities with behavior-driven development (BDD) using Cucumber</li>
+						<li>Tested and deployed features with the GCP Kubernetes Engine environment using Docker Images & Helm Charts</li>
+					  </ul>
+					</div>
+
 					<h3 className="resume-title">Education</h3>
 					<div className="resume-item">
 					  <h4>Master of Science in Computer Science</h4>
